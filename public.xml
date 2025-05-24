@@ -18,13 +18,13 @@
      </applet> -->
    </applets>
    <plugins>
-     <plugin name="Deezer" version="3.1.4" target="all" minTarget="8.3" maxTarget="*">
+     <plugin name="Deezer" version="3.1.4" minTarget="8.3" maxTarget="*">
        <title lang="EN">Ext Deezer for LMS</title>
        <desc lang="EN">Browse, search and play Deezer music in LMS. Unofficial plugin.</desc>
        <category>musicservices</category>
        <changes lang="EN">Initial private repo release. See GitHub for details.</changes>
        <creator>Dukobpa3</creator>
-       <email>your@email.com</email>
+       <email>a.burdun@gmail.com</email>
        <url>https://github.com/dukobpa3/lms-repo/raw/refs/heads/master/plugins/Deezer.zip</url>
        <sha>5f44add57e810bc61d8214a2e3245edb218282d2</sha>
      </plugin>
