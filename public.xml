@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+ <extensions>
+   <details>
+     <title lang="EN">Dukobpa3 Private LMS Repository</title>
+   </details>
+   <applets>
+     <!-- <applet name="AppletName" version="1.0" target="jive" minTarget="7.3" maxTarget="7.3">
+       <title lang="EN">English Title</title>
+       <title lang="DE">German Title</title>
+       <desc lang="EN">English description</desc>
+       <desc lang="DE">German description</desc>
+       <changes lang="EN">English change log</changes>
+       <changes lang="DE">German change log</changes>
+       <creator>Name of Author</creator>
+       <email>email of Author</email>
+       <url>url for zip file</url>
+       <sha>digest of zip</sha>
+     </applet> -->
+   </applets>
+   <plugins>
+     <plugin name="Deezer" version="3.1.4" target="all" minTarget="8.3" maxTarget="*">
+       <title lang="EN">Ext Deezer for LMS</title>
+       <desc lang="EN">Browse, search and play Deezer music in LMS. Unofficial plugin.</desc>
+       <category>musicservices</category>
+       <changes lang="EN">Initial private repo release. See GitHub for details.</changes>
+       <creator>philippe_44, Michael Herger, aburdun</creator>
+       <email>your@email.com</email>
+       <url>https://github.com/dukobpa3/lms-deezer/releases/download/3.1.4/Deezer.zip</url>
+       <sha>PUT_SHA1_HERE</sha>
+     </plugin>
+   </plugins>
+   <wallpapers>
+     <!-- <wallpaper name="WallpaperName" url="url for wallpaper file" /> -->
+   </wallpapers>
+   <sounds>
+     <!-- <sound name="SoundName"     url="url for sound file"     /> -->
+   </sounds>
+ </extensions>
