@@ -18,7 +18,7 @@
      </applet> -->
    </applets>
    <plugins>
-     <plugin name="Deezer" version="3.1.4" minTarget="8.3" maxTarget="*">
+     <plugin name="ExtDeezer" version="3.1.5" minTarget="8.3" maxTarget="*">
        <title lang="EN">Ext Deezer for LMS</title>
        <desc lang="EN">Browse, search and play Deezer music in LMS. Unofficial plugin.</desc>
        <category>musicservices</category>
@@ -26,7 +26,7 @@
        <creator>Dukobpa3</creator>
        <email>a.burdun@gmail.com</email>
        <url>https://raw.githubusercontent.com/dukobpa3/lms-repo/master/plugins/Deezer.zip</url>
-       <sha>c78ac47c257e0f99694ab7e429d1ceba</sha>
+       <sha>52cf6a24da6aabd3c2832c8886744ada</sha>
      </plugin>
    </plugins>
    <wallpapers>
