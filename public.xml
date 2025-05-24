@@ -25,7 +25,7 @@
        <changes lang="EN">Initial private repo release. See GitHub for details.</changes>
        <creator>Dukobpa3</creator>
        <email>a.burdun@gmail.com</email>
-       <url>https://github.com/dukobpa3/lms-repo/raw/refs/heads/master/plugins/Deezer.zip</url>
+       <url>https://raw.githubusercontent.com/dukobpa3/lms-repo/master/plugins/Deezer.zip</url>
        <sha>720e9372983524b80faa597b0008d4ab</sha>
      </plugin>
    </plugins>
