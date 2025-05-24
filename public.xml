@@ -18,7 +18,7 @@
      </applet> -->
    </applets>
    <plugins>
-     <plugin name="ExtDeezer" version="3.1.5" minTarget="8.3" maxTarget="*">
+     <plugin name="Deezer" version="3.1.5" minTarget="8.3" maxTarget="*">
        <title lang="EN">Ext Deezer for LMS</title>
        <desc lang="EN">Browse, search and play Deezer music in LMS. Unofficial plugin.</desc>
        <category>musicservices</category>
